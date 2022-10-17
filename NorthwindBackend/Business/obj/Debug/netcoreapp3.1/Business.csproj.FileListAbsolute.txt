@@ -1,0 +1,15 @@
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Cem\Desktop\CsharpSample\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.pdb
